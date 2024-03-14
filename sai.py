@@ -1,1 +1,3 @@
-print(4+5)
+def add(a,b):
+    print(a+b)
+print(add(5,6))
