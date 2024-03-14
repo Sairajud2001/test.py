@@ -1,3 +1,3 @@
-def sub(a,b):
+def sub(a, b):
     print(a-b)
-print(sub(5,6))
+print(sub(5, 6))
